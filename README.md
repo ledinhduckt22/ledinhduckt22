@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a67fiy90j7yssz9il3nfcm7ffwzju6p8bzqc49ne&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
   <div id="badges" align="center">
-  <a href="www.linkedin.com/in/aaron-js">
+  <a href="https://www.linkedin.com/in/aaron-js/">
     <img src="https://img.shields.io/badge/Linked%20In-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ledinhduckt22">
